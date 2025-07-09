@@ -1,9 +1,9 @@
-<h1 align="center">Alexandre Santos</h1>
+<h1 align="center">Alexandre Santos ✌️</h1>
 <h4 align="start">
   Sou desenvolvedor full stack com mais de 5 anos de experiência em programação, tendo atuado em diferentes tecnologias, projetos e segmentos.
 </h4>
 <h4 align="start">
-  Para saber mais acesse meu [portifólio](https://alexandresantos.dev.br/)
+  Para saber mais acesse meu portifólio: https://alexandresantos.dev.br/
 </h4>
 
 ## Meus conhecimentos  🛠
