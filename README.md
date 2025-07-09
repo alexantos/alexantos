@@ -20,6 +20,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/springboot-2F363D?style=for-the-badge&logo=springboot&logoColor=white" target="_blank"></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/mysql-2F363D?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/sqlite-2F363D?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/postgresql-2F363D?style=for-the-badge&logo=Postgresql&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/mongo-2F363D?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
 
@@ -27,6 +28,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/docker-2F363D?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/html-2F363D?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/css-2F363D?style=for-the-badge&logo=css&logoColor=white" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/tailwindcss-2F363D?style=for-the-badge&logo=tailwindcss&logoColor=white" target="_blank"></a>
 
 
 ## Entre em contato 📞
